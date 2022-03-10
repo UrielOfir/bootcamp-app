@@ -2,6 +2,8 @@
 
 ![Demo](docs/build-weight-tracker-app-demo.gif)
 
+[A link to detailed tutorial- Build a Weight Tracker App with Node.js and PostgreSQL](https://developer.okta.com/blog/2020/06/01/node-postgres-weight-tracker)
+
 This sample application demonstrates the following technologies.
 
 * [hapi](https://hapi.dev) - a wonderful Node.js application framework
@@ -28,5 +30,3 @@ This sample application demonstrates the following technologies.
 1. Run `npm run dev` to start Node.js
 
 The associated blog post goes into more detail on how to set up PostgreSQL with Docker and how to configure your Okta account.
-
-[A link to detailed tutorial- Build a Weight Tracker App with Node.js and PostgreSQL](https://developer.okta.com/blog/2020/06/01/node-postgres-weight-tracker)
